@@ -1,5 +1,6 @@
 {
     "name": "ngstorage",
+    "version": "0.3.0",
     "main": "./ngStorage.js",
     "keywords": [
         "angular",
